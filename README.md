@@ -31,17 +31,18 @@ with hands-on implementation experience across Microsoft cloud platforms.
 
 ## 📚 Publications (Zenodo – DOI Indexed)
 
-- **AI-Driven Conditional Access and Risk-Adaptive Identity Governance Using Microsoft Entra ID**  
- 🔗 https://doi.org/10.5281/zenodo.18132839
-
-- **Zero Trust Security Framework Implementation Using Microsoft 365 Defender and Microsoft Entra ID**  
- 🔗 https://doi.org/10.5281/zenodo.17918524
-
-- **Cloud PC Transformation with Windows 365**  
- 🔗 https://doi.org/10.5281/zenodo.17916194
-
-- **Microsoft Entra ID as a Zero Trust Identity Control Plane for Cloud-First Enterprises**  
- 🔗 https://doi.org/10.5281/zenodo.17916437
+## 📚 Publications (Zenodo – DOI Indexed)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18132839.svg)](https://doi.org/10.5281/zenodo.18132839)  
+**AI-Driven Conditional Access and Risk-Adaptive Identity Governance Using Microsoft Entra ID**
+---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17918524.svg)](https://doi.org/10.5281/zenodo.17918524)  
+**Zero Trust Security Framework Implementation Using Microsoft 365 Defender and Microsoft Entra ID**
+---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17916194.svg)](https://doi.org/10.5281/zenodo.17916194)  
+**Cloud PC Transformation with Windows 365**
+---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17916437.svg)](https://doi.org/10.5281/zenodo.17916437)  
+**Microsoft Entra ID as a Zero Trust Identity Control Plane for Cloud-First Enterprises**
 
 ---
 ## 🧰 Core Technology Focus

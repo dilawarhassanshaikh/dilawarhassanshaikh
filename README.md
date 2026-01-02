@@ -41,7 +41,7 @@ with hands-on implementation experience across Microsoft cloud platforms.
 - **Architecture**: Cloud-first identity design, secure access patterns
 ---
 ## 🔗 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/dilawar-hassan-shaikh  
+- 💼 LinkedIn: https://www.linkedin.com/in/dilawarshaikh  
 
 ---
 

@@ -9,7 +9,8 @@
  Identity Security • Conditional Access • Cloud Architecture
 </p>
 ---
-## 👋 About Me
+
+👋 About Me
 
 I am a **Microsoft 365 / Entra ID Architect** focused on designing and delivering
 **identity-centric Zero Trust security architectures** for enterprise and regulated environments.

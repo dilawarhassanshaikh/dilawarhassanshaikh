@@ -9,6 +9,12 @@
  Identity Security • Conditional Access • Cloud Architecture
 </p>
 
+<p align="center">
+<a href="https://scholar.google.com/citations?user=Bi1fCYcAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar Profile" />
+</a>
+</p>
+
 
 👋 About Me
 
